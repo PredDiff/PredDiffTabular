@@ -1,0 +1,14 @@
+crime_rate
+residential_prop
+industry_prop
+charles_river
+nox_concentration
+avg_no_rooms
+old_prop
+center_dist
+accessibility
+tax_rate
+pupil_teacher_ratio
+blacks_prop
+lower_status_prop
+median_value

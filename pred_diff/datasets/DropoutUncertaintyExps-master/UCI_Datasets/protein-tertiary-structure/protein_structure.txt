@@ -1,0 +1,84 @@
+https://archive.ics.uci.edu/ml/datasets/Physicochemical+Properties+of+Protein+Tertiary+Structure
+ Physicochemical Properties of Protein Tertiary Structure Data Set
+Download: Data Folder, Data Set Description
+
+Abstract: This is a data set of Physicochemical Properties of Protein Tertiary Structure. The data set is taken from CASP 5-9. There are 45730 decoys and size varying from 0 to 21 armstrong.
+	
+
+Data Set Characteristics:  
+	
+
+Multivariate
+	
+
+Number of Instances:
+	
+
+45730
+	
+
+Area:
+	
+
+Life
+
+Attribute Characteristics:
+	
+
+Real
+	
+
+Number of Attributes:
+	
+
+9
+	
+
+Date Donated
+	
+
+2013-03-31
+
+Associated Tasks:
+	
+
+Regression
+	
+
+Missing Values?
+	
+
+N/A
+	
+
+Number of Web Hits:
+	
+
+57235
+
+Source:
+
+Prashant Singh Rana, psrana '@' gmail.com, ABV - Indian Institute of Information Technology & Management, Gwalior, MP, India.
+
+Data Set Information:
+
+Provide all relevant information about your data set.
+
+Attribute Information:
+
+RMSD-Size of the residue.
+F1 - Total surface area.
+F2 - Non polar exposed area.
+F3 - Fractional area of exposed non polar residue.
+F4 - Fractional area of exposed non polar part of residue.
+F5 - Molecular mass weighted exposed area.
+F6 - Average deviation from standard exposed area of residue.
+F7 - Euclidian distance.
+F8 - Secondary structure penalty.
+F9 - Spacial Distribution constraints (N,K Value).
+
+Relevant Papers:
+
+N/A
+
+

@@ -1,0 +1,7 @@
+center_of_buoyancy
+prismatic_coeff
+length_displacement_ratio
+beam_draught_ratio
+length_beam_ratio
+froude_number
+residual_resistance

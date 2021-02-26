@@ -1,0 +1,5 @@
+temp
+pressure
+humindity
+exhaus_vacuum
+energy_output

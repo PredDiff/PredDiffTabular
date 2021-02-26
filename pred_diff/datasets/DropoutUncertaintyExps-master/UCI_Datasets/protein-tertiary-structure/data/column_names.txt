@@ -1,0 +1,10 @@
+surface_area
+non_polar_area
+area_non_polar_residue
+area_non_polar_part_residue
+weighted_area
+deviation_standard
+eucl_dist
+ss_penaltiy
+distribution_constraints
+size_residue

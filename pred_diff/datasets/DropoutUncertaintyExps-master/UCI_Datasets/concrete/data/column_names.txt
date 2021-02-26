@@ -1,0 +1,9 @@
+cement
+blast_furnace_slag
+fly_ash
+water
+superplasticizer
+coarse_aggregate
+fine_aggregate
+age
+compression_strength
